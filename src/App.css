@@ -1,0 +1,16 @@
+.section {
+    padding: 50px 0;
+    background-color: #f5f5f5;
+    margin: 10px 10px; /* Add a thin gap on the sides */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Add shadow */
+    border-radius: 8px;
+}
+.section-top {
+    background-color: #333;
+    padding: 10px 0;
+    text-align: center;
+}
+.section-top h2 {
+    color: white;
+    margin: 5px;
+}

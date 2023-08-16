@@ -1,0 +1,51 @@
+/* Certifications.css */
+
+.certifications-list {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 20px 10px;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    font-size: 16px;
+    line-height: 1.5;
+    justify-content: space-between;
+}
+
+.certification-item {
+    margin: 0 20px;
+    border-radius: 8px;
+    font-size: 16px;
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    width: 98%;
+    justify-content: space-between;
+
+}
+
+.certification-item a {
+    text-decoration: none;
+}
+
+.certification-item a:hover {
+    border-radius: 5px;
+    padding-left: 9px;
+    /*box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);*/
+}
+.certification-item p {
+    padding-right: 20px;
+    font-size: 16px;
+    color: #777;
+}
+.company-icon {
+    width: 60px;
+    height: 40px;
+    margin-right: 5px;
+    border-radius: 5px;
+}
+.certifications-list hr{
+    width: 98%;
+}

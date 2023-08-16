@@ -1,0 +1,68 @@
+/* CoCurricular.css */
+/* ... (existing styles) */
+.cocurricular-content {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.cocurricular-row {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 10px;
+}
+
+.cocurricular-item {
+    width: calc(48% - 10px); /* Divide into 2 items with a gap */
+    /*padding: 10px;*/
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.head{
+    background-color: yellowgreen;
+    margin-top: 0;
+}
+.cocurricular-item h3 {
+    color: #333;
+    margin-left: 100px;
+    text-align: left;
+    font-size: 20px;
+    padding: 10px 10px;
+}
+
+.cocurricular-item h4 {
+    padding: 0 20px;
+}
+.cocurricular-item p {
+    margin-bottom: 20px;
+}
+.head img {
+    margin-top: 5px;
+    margin-left: 20px;
+    width: 60px; /* Fixed width for the project image */
+    height: 60px; /* Fixed height for the project image */
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.arrow-icon {
+    width: 20px;
+    height: 20px;
+
+}
+.head img {
+    border-radius: 5px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+}
+.head img:hover {
+    margin-left: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+}

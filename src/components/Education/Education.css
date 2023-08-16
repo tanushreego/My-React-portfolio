@@ -1,0 +1,85 @@
+/* Education.css */
+/* ... (existing styles) */
+
+.education-description p {
+    margin: 5px 0;
+}
+.education-slide {
+    display: flex;
+    align-items: flex-start;
+    width: calc(100% - 20px); /* Adjust as needed */
+    padding-bottom: 10px;
+
+}
+.education-details {
+    flex: 1;
+    padding-left: 20px;
+}
+.education-title-date {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    line-height: 0%;
+
+}
+
+.education-title {
+    font-size: 18px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    /*box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);*/
+}
+
+.education-date {
+    color: #777;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.education-heading h3 {
+    text-align: left;
+    font-size: 20px;
+    color: #007bff;
+
+}
+
+.education-description p {
+    text-align: justify;
+    color: #777;
+}
+.education-content {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.school-picture {
+    padding: 0;
+    margin: 15px;
+    width: 100px;
+    height: 100px;
+    /*box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);*/
+}
+.school-picture2 {
+    width: 120px;
+    height: 105px;
+    margin: 15px;
+    /*box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);*/
+}
+.education-year {
+    text-align: right;
+    margin: 0;
+    font-weight: bold;
+}
+.slide {
+    width: calc(50% - 10px); /* Divide into 2 items with a small gap */
+    padding-bottom: 10px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    font-size: 16px;
+    line-height: 1.5;
+    display: flex;
+    align-items: center;
+}
+/* ... (slide styles) */
