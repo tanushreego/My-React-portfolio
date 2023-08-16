@@ -32,7 +32,6 @@ const CoCurricular = () => {
                             <h3>HACKER RANK</h3>
                         </div>
                         <h4>Contributor</h4>
-
                         <p>
                             <ul>
                                 <li>Contributor, Competitive coder, and learner.</li>

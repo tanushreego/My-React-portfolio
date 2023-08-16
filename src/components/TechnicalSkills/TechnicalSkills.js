@@ -58,7 +58,7 @@ const TechnicalSkills = () => {
                             <img src="./images/skills/aws.png" alt="aws" className="small"/>
                         </td>
                     </tr>
-                    <tr>
+                    <tr className="others">
                         <th>Others</th>
                         <td className="others"><b>Data Structures and Algorithms, Machine Learning, Software Engineering, Data Analytics, DevOps</b></td>
                         <td className="others"><b>Cloud computing, Web Mining, Natural language processing</b> </td>

@@ -11,8 +11,9 @@
 .cocurricular-row {
     width: 100%;
     display: flex;
-    justify-content: space-between;
+    padding: 10px;
     margin: 10px 10px;
+    justify-content: space-around;
 }
 
 .cocurricular-item {
@@ -42,6 +43,7 @@
 }
 .cocurricular-item p {
     margin-bottom: 20px;
+    padding-bottom: 2px;
 }
 .head img {
     margin-top: 5px;
