@@ -10,7 +10,7 @@ const Certifications = () => {
             <div className="certifications-list">
                 <div className="certification-item">
                     <a href="https://drive.google.com/file/d/1Yk9nvSXOFxcMFYACS-Cw_iM4bPnk-G_d/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
-                        <img src="/images/aws.png" alt="Arrow" className="company-icon"/>
+                        <img src="./images/aws.png" alt="Arrow" className="company-icon"/>
                         AWS Certified Cloud Practitioner <font color="#333">- AWS Certified.</font>
                     </a>
                     <p>Jul 2023</p>
