@@ -11,14 +11,14 @@ const Projects = () => {
                 <div className="slide">
                     <div className="project-slide">
                         <div className="project-image">
-                            <img src="/images/olympic.jpeg" alt="Project" />
+                            <img src="./images/olympic.jpeg" alt="Project" />
                         </div>
                         <div className="project-details">
                             <div className="project-title-date">
                                 <p className="project-title">Olympic Games - Analytics and Prediction Model for Results
                                     <a href="https://github.com/tanushreego/Olympic-medal-prediction-visualization-model" target="_blank" rel="noopener noreferrer">
                                         <img
-                                            src="/images/git.png"
+                                            src="./images/git.png"
                                             alt="Arrow"
                                             className="arrow-icon"
                                         />
@@ -41,14 +41,14 @@ const Projects = () => {
                 <div className="slide">
                     <div className="project-slide">
                         <div className="project-image">
-                            <img src="/images/flock_market.jpg" alt="Project" />
+                            <img src="./images/flock_market.jpg" alt="Project" />
                         </div>
                         <div className="project-details">
                                 <div className="project-title-date">
                                     <p className="project-title">Flock Market - A Store for Local Grocery Shops
                                         <a href="https://github.com/tanushreego/A-store-for-local-grocery-shops--Flock-Market" target="_blank" rel="noopener noreferrer">
                                             <img
-                                                src="/images/git.png"
+                                                src="./images/git.png"
                                                 alt="Arrow"
                                                 className="arrow-icon"
                                             />
@@ -72,14 +72,14 @@ const Projects = () => {
                 <div className="slide">
                     <div className="project-slide">
                         <div className="project-image">
-                            <img src="/images/hate_recognition.pbm" alt="Project" />
+                            <img src="./images/hate_recognition.pbm" alt="Project" />
                         </div>
                         <div className="project-details">
                             <div className="project-title-date">
                                 <p className="project-title">Social Media Hate Recognition System
                                     <a href="https://github.com/tanushreego/Using-twitter-dataset-Social-Media-Hate-Recognition-system" target="_blank" rel="noopener noreferrer">
                                         <img
-                                            src="/images/git.png"
+                                            src="./images/git.png"
                                             alt="Arrow"
                                             className="arrow-icon"
                                         />
@@ -102,14 +102,14 @@ const Projects = () => {
                 <div className="slide">
                     <div className="project-slide">
                         <div className="project-image">
-                            <img src="/images/music_player.jpeg" alt="Project" />
+                            <img src="./images/music_player.jpeg" alt="Project" />
                         </div>
                         <div className="project-details">
                             <div className="project-title-date">
                                 <p className="project-title">Gesture-Controlled Music Player
                                     <a href="https://github.com/tanushreego/Gesture-Controlled-Music-Player" target="_blank" rel="noopener noreferrer">
                                         <img
-                                            src="/images/git.png"
+                                            src="./images/git.png"
                                             alt="Arrow"
                                             className="arrow-icon"
                                         />

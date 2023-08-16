@@ -12,7 +12,7 @@ const CoCurricular = () => {
                     <div className="cocurricular-item">
                         <div className="head">
                             <a href="https://auth.geeksforgeeks.org/user/tanushreegorai277/practice" target="_blank" rel="noopener noreferrer">
-                                <img align="left" src="/images/gfg.jpeg" alt="Project" className="arrow-icon"/>
+                                <img align="left" src="./images/gfg.jpeg" alt="Project" className="arrow-icon"/>
                             </a>
                             <h3>GEEKS FOR GEEKS</h3>
                         </div>
@@ -27,7 +27,7 @@ const CoCurricular = () => {
                     <div className="cocurricular-item">
                         <div className="head">
                             <a href="https://auth.geeksforgeeks.org/user/tanushreegorai277/practice" target="_blank" rel="noopener noreferrer">
-                                <img align="left" src="/images/hacker.png" alt="Project" className="head"/>
+                                <img align="left" src="./images/hacker.png" alt="Project" className="head"/>
                             </a>
                             <h3>HACKER RANK</h3>
                         </div>
@@ -44,7 +44,7 @@ const CoCurricular = () => {
                 <div className="cocurricular-row">
                     <div className="cocurricular-item">
                         <div className={"head"}>
-                            <img align="left" src="/images/music.jpeg" alt="Project" />
+                            <img align="left" src="./images/music.jpeg" alt="Project" />
                             <h3>MUSIC CLUB VITCC</h3>
                         </div>
                         <h4>Core Member</h4>
@@ -57,7 +57,7 @@ const CoCurricular = () => {
                     </div>
                     <div className="cocurricular-item">
                         <div className={"head"}>
-                            <img  align="left" src="/images/under_25.png" alt="Project" />
+                            <img  align="left" src="./images/under_25.png" alt="Project" />
                             <h3>UNDER25 VIT</h3>
                         </div>
                         <h4>Design Head</h4>

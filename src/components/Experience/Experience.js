@@ -15,7 +15,7 @@ const Experience = () => {
                 <hr/>
                 <h4>
                     <img
-                        src="/images/building.png"
+                        src="./images/building.png"
                         alt="Arrow"
                         className="building-icon"
                     />
@@ -36,7 +36,7 @@ const Experience = () => {
                 <hr/>
                 <h4>
                     <img
-                        src="/images/building.png"
+                        src="./images/building.png"
                         alt="building"
                         className="building-icon"
                     />
@@ -47,7 +47,7 @@ const Experience = () => {
                         <li>Collaborated on the project "Data-Driven Insights on Olympic Sports Participation and Performance".
                             <a href="https://olympics-analysis-vit.github.io/" target="_blank" rel="noreferrer">
                                 <img
-                                    src="/images/click.png"
+                                    src="./images/click.png"
                                     alt="Arrow"
                                     className="click-icon"
                                 />

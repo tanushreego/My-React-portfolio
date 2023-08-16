@@ -11,7 +11,7 @@ const Education = () => {
             <div className="education-content">
                 <div className="slide">
                     <div className="education-slide">
-                        <img src="/images/school2.png" alt="School 2" className="school-picture2" />
+                        <img src="./images/school2.png" alt="School 2" className="school-picture2" />
                         <div className="education-details">
                             <div className="education-title-date">
                                 <p className="education-title">DAV Public School</p>
@@ -30,7 +30,7 @@ const Education = () => {
                 </div>
                 <div className="slide">
                     <div className="education-slide">
-                        <img src="/images/school1.png" alt="School 1" className="school-picture" />
+                        <img src="./images/school1.png" alt="School 1" className="school-picture" />
                         <div className="education-details">
                             <div className="education-title-date">
                                 <p className="education-title">Vellore Institute of Technology</p>

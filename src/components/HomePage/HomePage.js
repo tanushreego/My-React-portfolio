@@ -6,7 +6,7 @@ const Home = () => {
         <section id="home" className="home-section">
             <div className="home-content" align="center">
                 <div className="profile-picture" align="center">
-                    <img src="/images/profile.jpeg" alt="Profile" />
+                    <img src="./images/profile.jpeg" alt="Profile" />
                 </div>
                 <div className="intro">
                     <h1>TANUSHREE GORAI .</h1>
@@ -15,35 +15,35 @@ const Home = () => {
                     <div className="contact-details" >
                         <a href="mailto:tanushree.gorai277@gmail.com">
                             <img
-                                src="/images/contact/mail.webp"
+                                src="./images/contact/mail.webp"
                                 alt="Arrow"
                                 className="contact-icon"
                             />
                         </a>
                         <a href="https://www.linkedin.com/in/tanushree-gorai-1b437a1b7/" target="_blank" rel="noopener noreferrer">
                             <img
-                                src="/images/contact/linkedin.png"
+                                src="./images/contact/linkedin.png"
                                 alt="Arrow"
                                 className="contact-icon"
                             />
                         </a>
                         <a href="https://github.com/tanushreego" target="_blank" rel="noopener noreferrer">
                             <img
-                                src="/images/git.png"
+                                src="./images/git.png"
                                 alt="Arrow"
                                 className="contact-icon"
                             />
                         </a>
                         <a href="https://www.youtube.com/c/TanushreeGorai" target="_blank" rel="noopener noreferrer">
                             <img
-                                src="/images/contact/youtube.avif"
+                                src="./images/contact/youtube.avif"
                                 alt="Arrow"
                                 className="contact-icon"
                             />
                         </a>
                         <a href="https://www.instagram.com/goraitanushree_/" target="_blank" rel="noopener noreferrer">
                             <img
-                                src="/images/contact/instagram.png"
+                                src="./images/contact/instagram.png"
                                 alt="Arrow"
                                 className="contact-icon"
                             />
